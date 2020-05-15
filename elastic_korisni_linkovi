@@ -2,4 +2,5 @@ https://www.elastic.co/blog/alerting-in-the-elastic-stack
 https://www.elastic.co/blog/introducing-metricbeat-light-modules
 https://www.elastic.co/blog/how-to-keep-elasticsearch-synchronized-with-a-relational-database-using-logstash
 https://www.elastic.co/blog/how-to-file-a-github-issue-the-best-way
-https://discuss.elastic.co/t/kibana-user-roles-kibana-dashboard-only-and-limit-spaces/161905
+https://discuss.elastic.co/t/kibana-user-roles-kibana-dashboard-only-and-limit-spaces/161
+https://www.elastic.co/blog/configuring-ssl-tls-and-https-to-secure-elasticsearch-kibana-beats-and-logstash#enable-tls-kibana
