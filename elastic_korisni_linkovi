@@ -6,3 +6,10 @@ https://discuss.elastic.co/t/kibana-user-roles-kibana-dashboard-only-and-limit-s
 https://www.elastic.co/blog/configuring-ssl-tls-and-https-to-secure-elasticsearch-kibana-beats-and-logstash#enable-tls-kibana
 https://www.elastic.co/guide/en/kibana/7.7/configuring-tls.html#configuring-tls-kib-es
 https://fluentular.herokuapp.com/ 
+
+# Fielbeat kubernetes
+https://www.elastic.co/blog/docker-and-kubernetes-hints-based-autodiscover-with-beats
+https://discuss.elastic.co/t/filebeat-autodiscover-not-working-with-hints-namespace/243876
+https://discuss.elastic.co/t/how-to-exclude-other-namespaces/246544
+https://discuss.elastic.co/t/filebeats-in-kubernetes-how-to-export-specific-log-file-in-a-pod-to-logstash/132827
+https://discuss.elastic.co/t/filebeat-autodiscover-on-kubernetes-not-honoring-multiline-message-config/207167
