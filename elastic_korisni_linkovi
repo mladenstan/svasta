@@ -13,3 +13,5 @@ https://discuss.elastic.co/t/filebeat-autodiscover-not-working-with-hints-namesp
 https://discuss.elastic.co/t/how-to-exclude-other-namespaces/246544
 https://discuss.elastic.co/t/filebeats-in-kubernetes-how-to-export-specific-log-file-in-a-pod-to-logstash/132827
 https://discuss.elastic.co/t/filebeat-autodiscover-on-kubernetes-not-honoring-multiline-message-config/207167
+https://discuss.elastic.co/t/filebeat-performance-is-low-after-upgraded-to-7-9-3/263828/3
+
